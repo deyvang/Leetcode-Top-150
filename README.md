@@ -13,7 +13,7 @@
   This repository contains Leetcode <b>Top 150 Interview Problems</b> solutions source code in C++ Programming language.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-41%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-1%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
