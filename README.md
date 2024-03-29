@@ -14,5 +14,5 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Java, and Python Programming languages.
+  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, and Python Programming languages.
 </p>
